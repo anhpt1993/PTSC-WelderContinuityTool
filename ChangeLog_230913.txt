@@ -1,6 +1,0 @@
-+) 13-Sep-2023:
-	1. Ban hành lần đầu
-	2. Tool dùng để thay thế cho file Macro VBA "00. Merge_Signature_ExportPDF_rev03.xlsm" và thay thế việc chèn file pdf thủ công
-	3. Tool này dùng giao thức COM để điều khiển Excel xuất ra file .pdf. Trong quá trình chạy, file Excel sẽ được mở ra nhưng không hiển thị lên màn hình
-	4. Vì một số lỗi có thể xảy ra nếu như người dùng mở file .xlsx continuity trước khi khởi chạy Tool này, do đó Tool đã tích hợp module tự động đóng phần mềm "EXCEL.EXE" trước khi thực hiện các dòng lệnh chính.
-	5. Không cần cài đặt python cũng như các phần mềm đọc file pdf bản quyền để thực hiện chương trình
